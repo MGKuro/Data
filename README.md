@@ -16,5 +16,5 @@ Here is the link: [Django Web App](https://github.com/MGKuro/Django_Web)
 This is a work in progress section. I need historical data to transform and analyze. The goal is to use Python libraries like Pyspark to clean my data and the analyze it.
 
 # Machine Learning with Python
-I took a certificated course of Machine Learning with python in the UTN (Universidad tecnológica Nacional). Here, I learned the basics of ML and use it to create a categorization model that identify flower's species (its a free dataset).
+I took a certificated course of Machine Learning with python in the UTN (Universidad tecnológica Nacional). Here, I learned the basics of ML and use it to analize a wine dataset.
 You can look at this Jupyter notebook here: [ML Certification](https://github.com/MGKuro/ML-Cap)
