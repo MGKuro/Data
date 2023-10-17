@@ -10,4 +10,4 @@ I learned the power of data and I want to use it to help him make data-oriented 
 ### Data Gathering
 In order to help him I needed data first. Learning about Twitch API, I started to desing a Python script that gathers data from twitch using its endpoints. 
 
-Here is the link: [Django Web App] (https://github.com/MGKuro/Django_Web)
+Here is the link: [Django Web App](https://github.com/MGKuro/Django_Web)
