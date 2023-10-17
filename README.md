@@ -5,7 +5,7 @@ Hi! I'm Mauro Gación and this are my data projects. I will list all of them her
 
 # Twitch Streaming
 I started this project because my brother is a streamer with the username TokaSenseiGG.
-I learned the power of data and I want to use it to help him make data-oriented decisions.
+I learned the power of data and I want to use it to help him make data-driven decisions.
 
 ### Data Gathering
 In order to help him I needed data first. Learning about Twitch API, I started to desing a Python script that gathers data from twitch using its endpoints. 
