@@ -2,7 +2,7 @@
 ¡Hola! Soy Mauro Gación y estos son mis proyectos relacionados al mundo de los datos. Voy a listarlos aquí para que sean más fáciles de ser hallados.
 
 # Twitch Streaming
-Comencé este proyecto porque mi hermano es un streamer con el nombre TokaSenseiGG, y quiero ayudarlo.
+Comencé este proyecto porque mi hermano es un streamer con el nombre TokaSenseiGG.
 Aprendí sobre el poder de los datos y quiero utilizarlo para ayudarlo a tomar decisiones basadas en datos.
 
 ### Obtención de datos
