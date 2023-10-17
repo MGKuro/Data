@@ -13,7 +13,7 @@ In order to help him I needed data first. Learning about Twitch API, I started t
 Here is the link: [Django Web App](https://github.com/MGKuro/Django_Web)
 
 ### Data transformation
-This is a work in progress section. I need historical data to transform and analyze. The goal is to use Python libraries like Pyspark to clean my data and the analyze it.
+This is a work in progress section. I need historical data to transform and analyze. The goal is to use Python libraries like Pyspark to clean my data and then analyze it.
 
 # Machine Learning with Python
 I took a certificated course of Machine Learning with python in the UTN (Universidad tecnológica Nacional). Here, I learned the basics of ML and use it to analize a wine dataset.
