@@ -10,8 +10,12 @@ Para ayudarlo primero necesitaba datos. Aprendiendo acerca del API de Twitch, co
 
 Aquí está el link: [Django Web App](https://github.com/MGKuro/Django_Web)
 
-### Transformación de datos
-Está sección está en proceso de ser escrita. Necesito un histórico de datos para transformar y analizar. El objetivo es usar librerías de Python como Pyspark para limpiar los datos y analizarlos.
+### Dashboards
+Ahora, poseemos un tablero de Power BI para medir el rendimiento y actuar acorde a éste. Podemos filtrar por fecha y hora. Para estos filtros, tuvieron que utilizarse algunas fórmulas de Power BI y crearse nuevos campos. 
+
+Podemos observar cuántos viewers estuvieron presentes, si el stream fue muy corto y lo finalizamos cuando estaban presentes la mayor cantidad de viewers o si fue muy largo y los viewers (tanto como el streamer) se agotaron. Podemos hallar la mejor hora para transmitir. Podemos conocer si cierto tipo de juego genera nuevos seguidores y subscriptores, y mucho más. También podemos analizar estos datos con otras tablas extraídas de Twitch para generar predicciones. Es tiempo de decisiones basadas en datos.
+
+![alt text](https://github.com/MGKuro/Data/blob/master/stream.png?raw=true)
 
 # Machine Learning con Python
 He tomado un curso certificado de Machine Learning con python en la UTN (Universidad tecnológica Nacional). Aquí, aprendí los conceptos básicos de ML y los utilicé para analizar un dataset de vinos.
