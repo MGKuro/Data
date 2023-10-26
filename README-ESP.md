@@ -3,7 +3,7 @@
 
 # Twitch Streaming
 Comencé este proyecto porque mi hermano es un streamer con el nombre TokaSenseiGG.
-Aprendí sobre el poder de los datos y quiero utilizarlo para ayudarlo a tomar decisiones basadas en datos.
+Aprendí sobre el poder de los datos y quiero utilizarlo para ayudarlo a tomar decisiones basadas en ellos.
 
 ### Obtención de datos
 Para ayudarlo primero necesitaba datos. Aprendiendo acerca del API de Twitch, comencé a diseñar un script en Python que obtiene datos de Twitch y sus endpoints. 
